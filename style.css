@@ -84,3 +84,8 @@ select,input[type=number]{border:0;background:#f5f8fd;box-shadow:inset 0 0 0 1px
 .orientation-icon .ori-tile{display:flex;align-items:center;justify-content:center;width:30px;height:42px;border:0;background:transparent;border-radius:0;overflow:visible}
 .orientation-icon .ori-tile img{width:100%;height:100%;object-fit:contain;display:block}
 .orientation-icon .ori-tile.rotated{width:42px;height:30px}
+
+#kanTilesModal .tile-grid-modal{
+  max-width:450px;
+  margin:0 auto;
+}
